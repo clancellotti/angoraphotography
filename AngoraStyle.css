@@ -1,0 +1,64 @@
+/*
+	CSS for Angora Photography
+*/
+
+
+header.background{
+	background-image: url('woodgrain.jpg');
+		
+	
+}
+
+
+header{
+	display: flex;
+	position: fixed;
+	top: 0;
+	z-index: 9;
+	align-items: center;
+	justify-content: left;
+	border-bottom: 1px solid black;
+	width: 100%;
+	height: 150px;
+	line-height: 75px;
+	vertical-align: middle;
+	font-family: 'Lexend Deca', sans-serif;
+	text-align: left;
+	font-size: 50px;	
+	font-style: bold;
+	color: white;
+	background-image: url('woodgrain.jpg');
+	background-size: 100%;
+		
+}
+
+
+
+
+
+
+
+
+body{
+	background-color:#ffffff;
+	margin-top: 150px;
+	z-index: 1;
+	font-family: "Calibri, Corbel, Sans Serif";
+	text-align: left;
+	color: black;
+	padding:0;
+	
+}
+
+
+
+
+p{
+	font-family: "Calibri, Corbel, Sans Serif";
+	color: green;
+	margin: 0px 0px 0px 125px;
+
+
+}
+
+

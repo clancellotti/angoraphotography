@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+<meta charset= "utf-8">
+<title>Angora Gallery Home</title>
+
+<link rel="stylesheet" type="text/css" href="angorastyle.css" />
+
+
+</head>
+
+<header>
+Welcome to Angora Photography
+
+</header>
+
+
+<body>
+
+
+<p>This is my first paragraph.</p>
+<h1>This is H1</h1>
+<h2>This is H2</h2>
+<br style="line-height:100;"
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "450px";
+  document.getElementById("main").style.marginLeft = "450px";
+  document.body.style.backgroundColor = "#bebebe";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
+  document.body.style.backgroundColor = "white";
+}
+</script>
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+  transition: background-color .5s;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  overflow-x: hidden;
+  transition: 1.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #bebebe;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+#main {
+  transition: margin-left 1.5s;
+  padding: 16px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="file:AngoraGalleryAbout.htm#">About Bayview Farms</a>
+  <a href="#">Pony Club Riding Center</a>
+  <a href="#">Gallery</a>
+  <a href="#">Training / Lessons</a>
+  <a href="file:BayViewContact.html">Contact</a>
+</div>
