@@ -4,7 +4,7 @@
 
 
 header.background{
-	background-image: src('images/woodgrain.jpg');
+	background-image: url('/images/woodgrain.jpg');
 		
 	
 }
