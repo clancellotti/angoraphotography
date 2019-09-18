@@ -4,7 +4,7 @@
 
 
 header.background{
-	background-image: url('/angoraphotography/images/woodgrain.jpg')
+	
 		
 	
 }
@@ -28,6 +28,7 @@ header{
 	font-style: bold;
 	color: white;
 	background-size: 100%;
+	background-image: url('/angoraphotography/images/woodgrain.jpg')
 		
 }
 
