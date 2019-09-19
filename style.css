@@ -27,9 +27,10 @@ header{
 headernav{
 	z-index: 9;
 	width: 100%;
+	height: 125px
 	vertical-align: bottom;
 	font-family: 'Lexend Deca', sans-serif;
-	text-align: left;
+	text-align: right;
 	font-size: 10px;	
 	font-style: bold;
 	color: white;
