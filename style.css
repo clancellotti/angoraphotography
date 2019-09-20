@@ -7,7 +7,7 @@
 header{
 	display: flex;  /*allows size of header to flex with screen size etc...*/
 	position: fixed; /*keeps header fixed in same spot even if scrolling past it*/
-	/*top: 0;  /*positions header at top*/
+	top: 0;  /*positions header at top*/
 	z-index: 9; /*larger z-index will cover a smaller z-index, keeps header over other elements*/
 	justify-content: left; /*keeps content at left of the header*/
 	border-bottom: 1px solid black;
