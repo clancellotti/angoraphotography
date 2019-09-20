@@ -13,7 +13,7 @@ header{
 	border-bottom: 1px solid black;
 	width: 100%;
 	height: 125px;
-	vertical-align: middle; /*aligns components in middle vertically*/
+	vertical-align: center; /*aligns components in middle vertically*/
 	font-family: 'Lexend Deca', sans-serif;
 	text-align: left;
 	font-size: 35px;	
