@@ -34,6 +34,7 @@ headernav{
 	height: 125px;
 	line height: 125px;
 	vertical-align: bottom;
+	justify-content: right;
 	font-family: 'Lexend Deca', sans-serif;
 	text-align: right;
 	font-size: 10px;	
