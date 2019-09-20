@@ -31,7 +31,8 @@ headernav{
 	top: 0;  /*positions header at top*/
 	z-index: 9;
 	width: 100%;
-	height: 125px
+	height: 125px;
+	line height: 125px;
 	vertical-align: bottom;
 	font-family: 'Lexend Deca', sans-serif;
 	text-align: right;
