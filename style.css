@@ -15,7 +15,8 @@ header{
 	height: 125px;
 	/*vertical-align: middle; /*aligns components in middle vertically*/
 	font-family: 'Lexend Deca', sans-serif;
-	/*text-align: middle;*/
+	line-height: 125px;
+	text-align: center;
 	font-size: 35px;	
 	font-style: bold;
 	color: white;
