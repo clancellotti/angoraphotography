@@ -26,6 +26,7 @@ header{
 }
 
 headernav{
+	float:right;
 	display: flex;  /*allows size of header to flex with screen size etc...*/
 	position: fixed; /*keeps header fixed in same spot even if scrolling past it*/
 	top: 0;  /*positions header at top*/
