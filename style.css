@@ -16,12 +16,12 @@ header{
 	font-family: 'Lexend Deca', sans-serif;
 	line-height: 125px; /*sets line height same height as header so text-align will work*/
 	text-align: center;
+	text-indent: 15px;
 	font-size: 35px;	
 	font-style: bold;
 	color: white;
 	background-size: 100%;
 	background-image: url('/angoraphotography/images/woodgrain.jpg')
-	padding: 5,10,0,10;
 		
 }
 
