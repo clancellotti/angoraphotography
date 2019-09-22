@@ -10,6 +10,10 @@ a:hover, a:visited, a:link, a:active, a
 	color: inherit;
 }
 
+ul, ol{
+	line-height=200%
+}
+
 
 
 header{
