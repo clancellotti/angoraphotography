@@ -3,10 +3,11 @@
 */
 
 
-a:hover, a:visited, a:link, a:active
+a:hover, a:visited, a:link, a:active, a
 {
     text-decoration: none;
 	decoration: none;
+	color: inherit;
 }
 
 
