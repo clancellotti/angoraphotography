@@ -10,7 +10,7 @@ a:hover, a:visited, a:link, a:active, a{
 }
 
 ul, ol, li{
-	height=200%
+	line-height= 20px;
 }
 
 
