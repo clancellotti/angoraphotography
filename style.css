@@ -12,7 +12,6 @@ a:hover, a:visited, a:link, a:active
 
 
 header{
-	text-decoration: none;
 	display: flex;  /*allows size of header to flex with screen size etc...*/
 	position: fixed; /*keeps header fixed in same spot even if scrolling past it*/
 	top: 0;  /*positions header at top*/
@@ -34,7 +33,6 @@ header{
 }
 
 headernav{
-	text-decoration: none;
 	/*float:right;*/
 	/*display: flex;  /*allows size of header to flex with screen size etc...*/
 	/*position: fixed; /*keeps header fixed in same spot even if scrolling past it*/
@@ -60,7 +58,6 @@ headernav{
 
 
 body{
-	text-decoration: none;
 	background-color:#ffffff;
 	margin-top: 150px;
 	z-index: 1;
@@ -75,7 +72,6 @@ body{
 
 
 p{
-	text-decoration: none;
 	font-family: "Calibri, Corbel, Sans Serif";
 	color: green;
 	margin: 0px 0px 0px 125px;
