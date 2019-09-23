@@ -9,7 +9,7 @@ a:hover, a:visited, a:link, a:active, a{
 	color: inherit;
 }
 
-ul, ol, li{
+li{
 	margin: 20px 0;
 }
 
