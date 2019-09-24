@@ -9,6 +9,13 @@ a:hover, a:visited, a:link, a:active, a{
 	color: inherit;
 }
 
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
+
+
 li{
 	margin: 10px 0;
 }
